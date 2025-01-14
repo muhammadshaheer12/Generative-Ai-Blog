@@ -9,7 +9,7 @@ const Home = () => {
       <main className="flex-1 flex flex-col sm:flex-row items-center justify-center px-6 py-12 sm:px-12 sm:py-16">
         <div className="sm:w-1/2 text-center sm:text-left mb-8 sm:mb-0 sm:mr-12">
           <h1 className="text-4xl sm:text-6xl font-extrabold text-black mb-6 tracking-wide">
-            Welcome to Generative Ai Blog
+            Welcome to Our Blog
           </h1>
 
           <p className="text-base sm:text-lg text-gray-800 mb-12 leading-relaxed font-light">
